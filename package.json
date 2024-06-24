@@ -1,0 +1,21 @@
+{
+  "name": "passport-checker",
+  "version": "1.0.0",
+  "description": "Checks machine readble zone on passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "run checker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Liam",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
